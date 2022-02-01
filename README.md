@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**doggyhaha/doggyhaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's my github stats:
 
-Here are some ideas to get you started:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doggyhaha&show_icons=true&count_private=true&theme=github_dark)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top langs:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggyhaha&layout=compact)]
+
+- 🔭 I’m currently working on [CovidPy](https://github.com/CovidPyLib)
+- 🌱 I’m currently learning [Python](https://python.org)
+- 🤔 I’m looking for help with [CovidPy](https://github.com/CovidPyLib) since there's still a lot to do
+- 📫 How to reach me: [Telegram](https://t.me/cagavo)
+- 😄 Pronouns: he/him
