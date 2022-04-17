@@ -2,8 +2,7 @@
 
 Here's my github stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doggyhaha&show_icons=true&count_private=true&theme=github_dark)]
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doggyhaha&show_icons=true&count_private=true&theme=github_dark)
 - 🔭 I’m currently working on [CovidPy](https://github.com/CovidPyLib)
 - 🌱 I’m currently learning [Python](https://python.org)
 - 🤔 I’m looking for help with [CovidPy](https://github.com/CovidPyLib) since there's still a lot to do
